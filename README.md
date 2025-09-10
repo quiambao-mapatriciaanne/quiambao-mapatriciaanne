@@ -3,6 +3,7 @@
 
 <div align="center">
 
+## 💻 Projects
 1.[MedAssistant](https://github.com/delima-justine/MedAssistant) - Made in Java, a system designed to manage hospital operations such as patient records, doctor schedules, and admin access. <br>
 **Tech Stack:** Java • Scene Builder • SMSS <br> **Role:** QA Tester <br>
 
