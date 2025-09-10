@@ -5,10 +5,10 @@
 
 ## 💻 Projects
 1.[MedAssistant](https://github.com/delima-justine/MedAssistant) - Made in Java, a system designed to manage hospital operations such as patient records, doctor schedules, and admin access. <br>
-**Tech Stack:** Java • Scene Builder • SMSS <br> **Role:** QA Tester <br>
+**Tech Stack:** Java • Scene Builder • SMSS <br> **Role:** Tech Lead <br>
 
 2.[Automated Disk Cleaner & Usage Analyzer](https://github.com/mejares-jamesmichael/OS-PROJECT-Powershell-GUI) - a PowerShell tool that helps clean unnecessary files and optimize device storage. <br>
-**Tech Stack:** PowerShell <br> **Role:** QA Tester • Documentation <br>
+**Tech Stack:** PowerShell <br> **Role:** QA Tester <br>
 
 3.[Blog](https://github.com/Romero-DiannaRain/Blog-/tree/main) - A system designed for creating, managing, and publishing blog posts with user-friendly features and efficient content management. <br>
 Tech Stack: Laravel • HTML • PHP • MySQL Workbench <br> Role: Backend Developer <br>
